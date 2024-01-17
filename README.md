@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThilakAswin
-- 👀 I’m interested in coding and game development
+- 👀 I’m interested in java coding and web development
 - 💞️ I’m looking to collaborate on web development
 
 
